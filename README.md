@@ -4,7 +4,7 @@
 
 **📘 About This Repo**
 
-*Writing and simulating RTL designs using Verilog
+- Writing and simulating RTL designs using Verilog
 
 *Running functional simulations with Icarus Verilog and visualizing waveforms in GTKWave
 
