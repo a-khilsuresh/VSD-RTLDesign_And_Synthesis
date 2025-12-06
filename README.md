@@ -31,6 +31,8 @@
 - gtkwave for viewing simulation waveforms
 - yosys for logic synthesis
 - Any code editor (e.g., VS Code, Vim, Nano)
+
+  
 **📁Workshop Structure**
   
 - Day 1: Introduction to Verilog RTL Design & Synthesis (Introduction to Verilog RTL design and Synthesis/Readme.md)
